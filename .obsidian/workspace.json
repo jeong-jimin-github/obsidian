@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "a39f181022260597",
+    "type": "split",
+    "children": [
+      {
+        "id": "511c285e74afcc51",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b2e22fbeee5e62e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "종합과목/지리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c712be1806cb463b",
+    "type": "split",
+    "children": [
+      {
+        "id": "4dbfa8ff3ad7f5bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f6fb21a19262ff3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76e84757f5c871cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb9bd84557f14805",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f7ca590326f3c23",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1dd8ca8cfcaf9e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33a01f9259d8969e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "종합과목/지리.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1b061555a6588c98",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "종합과목/지리.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b80e4fad8a07f0f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5903aba69dea85a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "종합과목/지리.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "3b2e22fbeee5e62e",
+  "lastOpenFiles": [
+    "종합과목",
+    "종합과목/지리.md",
+    "README.md"
+  ]
+}
