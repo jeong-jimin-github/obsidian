@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "영어/문법.md",
+                "file": "종합과목/역사.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "영어/문법.md",
+                "file": "종합과목/역사.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "영어/문법.md",
+                "file": "종합과목/역사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "영어/문법.md"
+                "file": "종합과목/역사.md"
               }
             }
           }
@@ -146,9 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b2e22fbeee5e62e",
+  "active": "1f6fb21a19262ff3",
   "lastOpenFiles": [
     "종합과목/지리.md",
+    "종합과목/역사.md",
     "영어/문법.md",
     "영어",
     "종합과목",
