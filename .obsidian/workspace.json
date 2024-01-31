@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "종합과목/지리.md",
+                "file": "개임 개발/아이디어.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "종합과목/지리.md",
+                "file": "개임 개발/아이디어.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "종합과목/지리.md",
+                "file": "개임 개발/아이디어.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "종합과목/지리.md"
+                "file": "개임 개발/아이디어.md"
               }
             }
           }
@@ -148,9 +148,11 @@
   },
   "active": "3b2e22fbeee5e62e",
   "lastOpenFiles": [
+    "종합과목/지리.md",
+    "개임 개발/아이디어.md",
+    "개임 개발",
     "종합과목/역사.md",
     "영어/문법.md",
-    "종합과목/지리.md",
     "영어",
     "종합과목",
     "README.md"
