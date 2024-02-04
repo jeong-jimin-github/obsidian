@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "511c285e74afcc51",
+        "id": "dc461c70237e6f59",
         "type": "tabs",
         "children": [
           {
-            "id": "3b2e22fbeee5e62e",
+            "id": "8eaba59f9f92eac4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "개임 개발/아이디어.md",
+                "file": "2024-02-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "개임 개발/아이디어.md",
+                "file": "2024-02-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "개임 개발/아이디어.md",
+                "file": "2024-02-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "개임 개발/아이디어.md"
+                "file": "2024-02-04.md"
               }
             }
           }
@@ -146,13 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3b2e22fbeee5e62e",
+  "active": "8eaba59f9f92eac4",
   "lastOpenFiles": [
     "종합과목/지리.md",
+    "2024-02-04.md",
+    "img/image-removebg-preview (2).png",
+    "img",
+    "img/image-removebg-preview (3).png",
+    "img/モルワイデ-1024x585-removebg-preview.png",
+    "img/image-removebg-preview.png",
+    "종합과목/역사.md",
+    "image-removebg-preview (1).png",
+    "영어/문법.md",
     "개임 개발/아이디어.md",
     "개임 개발",
-    "종합과목/역사.md",
-    "영어/문법.md",
     "영어",
     "종합과목",
     "README.md"
