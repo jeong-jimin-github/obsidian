@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ad9838c2f4425a9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일정표.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일정표.md",
+                "file": "목표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일정표.md",
+                "file": "목표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일정표.md"
+                "file": "목표.md"
               }
             }
           }
@@ -159,13 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f6fb21a19262ff3",
+  "active": "9e018821a4b4c39b",
   "lastOpenFiles": [
+    "종합과목/지리.md",
+    "종합과목/역사.md",
     "목표.md",
     "일정표.md",
     "2024-02-24.md",
-    "종합과목/지리.md",
-    "종합과목/역사.md",
     "영어/문법.md",
     "유학 정보/하이레벨 종합과목.pdf",
     "유학 정보/2022년 사립대학 합격자 EJU 성적표.pdf",

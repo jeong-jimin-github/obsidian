@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "baseFontSize": 21
+  "baseFontSize": 21,
+  "interfaceFontFamily": "Noto Sans KR,Noto Sans JP",
+  "textFontFamily": "Noto Sans KR,Noto Sans JP"
 }
