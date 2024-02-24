@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일정표.md",
+                "file": "목표.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "일정표.md",
+                "file": "목표.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "일정표.md",
+                "file": "목표.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "일정표.md"
+                "file": "목표.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "9e018821a4b4c39b",
   "lastOpenFiles": [
+    "일정표.md",
     "목표.md",
     "종합과목/지리.md",
     "종합과목/역사.md",
-    "일정표.md",
     "2024-02-24.md",
     "영어/문법.md",
     "유학 정보/하이레벨 종합과목.pdf",
