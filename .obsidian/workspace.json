@@ -11,9 +11,11 @@
             "id": "f81e0b5c9be35fb2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "유학 정보/하이레벨 종합과목.pdf"
+                "file": "종합과목/지리.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "유학 정보/하이레벨 종합과목.pdf",
+                "file": "종합과목/지리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "유학 정보/하이레벨 종합과목.pdf",
+                "file": "종합과목/지리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "유학 정보/하이레벨 종합과목.pdf"
+                "file": "종합과목/지리.md"
               }
             }
           }
@@ -146,10 +148,12 @@
   },
   "active": "f81e0b5c9be35fb2",
   "lastOpenFiles": [
-    "유학 정보/하이레벨 종합과목.pdf",
-    "유학 정보",
-    "유학 정보/2022년 사립대학 합격자 EJU 성적표.pdf",
+    "종합과목/역사.md",
     "영어/문법.md",
+    "유학 정보/하이레벨 종합과목.pdf",
+    "유학 정보/2022년 사립대학 합격자 EJU 성적표.pdf",
+    "목표.md",
+    "유학 정보",
     "종합과목/지리.md",
     "Untitled.canvas",
     "2024-02-04.md",
@@ -158,7 +162,6 @@
     "img/image-removebg-preview (3).png",
     "img/モルワイデ-1024x585-removebg-preview.png",
     "img/image-removebg-preview.png",
-    "종합과목/역사.md",
     "image-removebg-preview (1).png",
     "개임 개발/아이디어.md",
     "개임 개발",
